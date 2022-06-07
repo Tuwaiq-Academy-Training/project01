@@ -1,0 +1,20 @@
+{
+
+  "name": "first node ",
+
+  "dependencies": {
+
+    "figlet": "^1.5.2",
+
+    "inquirer": "^8.2.4",
+
+    "prompt-sync": "^4.2.0",
+
+    "shape-drawing": "^1.3.0",
+
+    "surrender": "^0.0.0"
+
+  }
+
+}
+
